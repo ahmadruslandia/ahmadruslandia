@@ -10,13 +10,13 @@
 
 <div align="center">
 
-<h3 align="center">A passionate Full Stack Developer, Now transitioning into IT</h3>
+<h3 align="center">A passionate Information Technology (IT) from Indonesia</h3>
 
 <br/>
 
 🌱 I’m currently learning **Information Technology (IT)**
 
-💬 Ask me about **Technology or Develop with any Framework [here](https://github.com/ahmadruslandia-cloud/ahmadruslandia-cloud/issues)**
+💬 Ask me about **Technology [here](https://github.com/ahmadruslandia-cloud/ahmadruslandia-cloud/issues)**
 
 <br/>
 
