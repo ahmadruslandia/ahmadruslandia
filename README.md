@@ -40,6 +40,14 @@
         <td align="center" width="100">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="#ahmadruslandia">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools7.png" width="40" height="40" alt="Figna" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia">
             <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools2.png" width="40" height="40" alt="VSc" />
           </a>
           <br>
@@ -73,14 +81,6 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="#ahmadruslandia">
             <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools6.png" width="40" height="40" alt="Cisco Packet Tracer" />
-          </a>
-          <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        </td>
-        <td align="center" width="100">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="#ahmadruslandia">
-            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools7.png" width="40" height="40" alt="Figna" />
           </a>
           <br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
